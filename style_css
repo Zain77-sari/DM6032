@@ -1,3 +1,28 @@
+h1{font-family:segoe UI;
+text-align:center;
+font-size:25px;
+font-weight:bold;
+color:navy;
+letter-spacing: 3px;
+border:2px solid black;
+line-height:48px;
+background-color: lightgray;
+}
+ul{display:flex;
+justify-content: center;
+gap:50px;
+}
+a{color:black;
+font-family:times new roman, arial;
+font-size:13px;
+letter-spacing:3px;
+text-decorating: underline;
+font-weight:bold;
+}
+
+table{color:gray;
+  border:7px solid black;
+  border-collapse:collapse;
   height:100px;
   width:20%;
   background-color: gray;
