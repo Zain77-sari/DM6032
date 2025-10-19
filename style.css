@@ -1,1 +1,60 @@
+*{ 
+margin:0; 
+padding:0; 
+font-familt:Segoe UI, Arial; 
+Box-sizing:border-box; 
+} 
+body{ 
+padding-top:65px; 
+color:black; 
+background:white; 
+text-align:center; 
+} 
+nav{ 
+position:fixed; 
+top:0; 
+background:blue; 
+width:100%; 
+} 
+ 
+nav ul{ 
+justify-content:center; 
+style-list:none; 
+gap:20px; 
+display:flex; 
+} 
+ 
+nav a{  
+color:white; 
+font-weight:Bold; 
+text-decoration:none; 
+} 
+.table{ 
+margin:18px auto; 
+border:4px gray; 
+borfer-collapse:collapse; 
+weidth:50%; 
+} 
+.table th 
+{ 
+background-color:blue; 
+} 
+.table th, 
+.table td{ 
+border:1px solid black; 
+} 
+.table image{ 
+hight:100px; 
+width:100px; 
+object-fit:cover; 
+} 
+ 
+#ourmenu{ 
+margin-top:60px; 
+} 
+#contactForm{ 
+margin-top:60px; 
+} 
+#logo{width:30%; 
+} 
 
